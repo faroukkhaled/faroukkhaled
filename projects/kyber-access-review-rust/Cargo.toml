@@ -1,0 +1,9 @@
+[package]
+name = "kyber-access-review-rust"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[[bin]]
+name = "kyber-access-review-rust"
+path = "main.rs"
