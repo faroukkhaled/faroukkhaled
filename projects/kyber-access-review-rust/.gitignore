@@ -1,0 +1,13 @@
+data/
+reports/
+.env
+.env.*
+!.env.example
+*.sqlite*
+*.db
+node_modules/
+bin/
+obj/
+target/
+__pycache__/
+*.pyc
