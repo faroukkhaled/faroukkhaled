@@ -1,0 +1,4 @@
+# Synthetic example only
+member	user:demo	role:operations
+grant	role:operations	sensitive:billing	read	external
+grant	user:public-demo	public:docs	write	public
