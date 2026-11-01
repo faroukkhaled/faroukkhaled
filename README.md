@@ -1,8 +1,6 @@
 # Farouk Khaled
 
-<p align="center"><strong>Practical projects. Clear scope. Continuous learning.</strong></p>
-
-I’m **Farouk Khaled**, a web developer working with React and Python, developing full-stack skills and exploring web application security.
+I’m **Farouk Khaled**, a developer with **8+ years of experience** and knowledge of **14 programming languages**, focused on web development, automation, and application security. I’m building **KYBER** to deliver practical digital solutions for businesses.
 
 ## Selected projects
 
@@ -24,7 +22,7 @@ Results identify reflected input for manual review, not confirmed exploitable XS
 
 **KYBER** is an initiative I’m developing around practical web and digital solutions for businesses in Qatar. It is currently a work in progress.
 
-My focus is on useful interfaces, API integration and thoughtful handling of user data, while building the backend skills needed for complete applications.
+My focus is on useful interfaces, API integration, automation, and thoughtful handling of user data.
 
 ## How I work
 
@@ -34,4 +32,4 @@ My focus is on useful interfaces, API integration and thoughtful handling of use
 
 ---
 
-<p dir="rtl">أنا <strong>فاروق خالد</strong>، مطوّر ويب أعمل باستخدام React وPython، وأطوّر مهاراتي في Full-Stack وأمن تطبيقات الويب. أعمل على تطوير <strong>KYBER</strong> لتقديم حلول ويب ورقمية عملية للشركات في قطر. المشاريع هنا توضّح شغلي الحالي ونطاقه وما أتعلمه.</p>
+<p dir="rtl">أنا <strong>فاروق خالد</strong>، مطوّر بخبرة <strong>أكثر من 8 سنوات</strong> ومعرفة بـ<strong>14 لغة برمجة</strong>، أركز على تطوير الويب والأتمتة وأمن التطبيقات. أعمل على تطوير <strong>KYBER</strong> لتقديم حلول ويب ورقمية عملية للشركات في قطر. المشاريع هنا تعرض نماذج من شغلي ونطاق كل مشروع.</p>
