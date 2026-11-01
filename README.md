@@ -1,28 +1,39 @@
-# Farouk Khaled
+<p align="center">
+  <img src="./farouk-kyber-banner.png" alt="Farouk Khaled — Web Development, Python and Web Security — KYBER" width="100%" />
+</p>
 
-Web developer building practical projects with React and Python, developing full-stack skills, and exploring web application security.
+<p align="center"><strong>Practical projects. Clear scope. Continuous learning.</strong></p>
 
-## Selected work
+I’m **Farouk Khaled**, a web developer working with React and Python, developing full-stack skills and exploring web application security.
 
-| Project | What it demonstrates | Scope |
-| --- | --- | --- |
-| [Circle — React social app](https://github.com/faroukkhaled/route-social-react) | React, React Router, Vite, API integration, session handling and a local demo | Frontend learning project for Route; uses an external API, with no custom backend |
-| [Python reflection scanner](https://github.com/faroukkhaled/xss_scanner.py) | HTTP requests, HTML parsing, URL parameters and threading | Educational web security tool; reflected input is a signal for manual review, not proof of exploitable XSS |
+## Selected projects
 
-## Current focus
+### [Circle · React social app](https://github.com/faroukkhaled/route-social-react)
+A responsive social interface with authentication flows, posts, comments, image uploads and a local demo.
 
-- Building maintainable interfaces and integrating web APIs.
-- Developing backend and full-stack skills through practical work.
-- Learning web security with clearly scoped, authorized testing.
+**React · React Router · Vite · JavaScript · REST API integration**
 
-## KYBER
+Built as a Route learning project. The frontend integrates with the Route API; it does not include a custom backend. [Explore the project →](https://github.com/faroukkhaled/route-social-react#readme)
 
-I am developing KYBER, an initiative focused on practical web and digital solutions for businesses in Qatar. It is a work in progress; this profile presents learning projects and does not claim completed client deployments or security certifications.
+### [Python · Reflected-input scanner](https://github.com/faroukkhaled/xss_scanner.py)
+An educational tool for exploring HTTP requests, HTML parsing, URL query parameters and threading.
 
-## Working approach
+**Python · requests · BeautifulSoup · Web security fundamentals**
 
-Clear documentation, honest project scope, and careful handling of credentials and user data. Security tools here are for systems I own or have explicit permission to test.
+Results identify reflected input for manual review, not confirmed exploitable XSS. Use only within an explicitly authorized testing scope. [Read the documentation →](https://github.com/faroukkhaled/xss_scanner.py#readme)
+
+## Building KYBER
+
+**KYBER** is an initiative I’m developing around practical web and digital solutions for businesses in Qatar. It is currently a work in progress.
+
+My focus is on useful interfaces, API integration and thoughtful handling of user data, while building the backend skills needed for complete applications.
+
+## How I work
+
+- **Build clearly:** readable code, reusable components and documented setup.
+- **Learn by doing:** practical projects with an honest account of what has been tested.
+- **Think about security:** protect credentials, respect user data and test only with permission.
 
 ---
 
-مطوّر ويب أعمل على مشاريع عملية باستخدام React وPython، وأطوّر مهاراتي في Full-Stack وأمن تطبيقات الويب. أعمل على تطوير KYBER، وأعرض هنا نطاق كل مشروع وحدوده بوضوح.
+<p dir="rtl">أنا <strong>فاروق خالد</strong>، مطوّر ويب أعمل باستخدام React وPython، وأطوّر مهاراتي في Full-Stack وأمن تطبيقات الويب. أعمل على تطوير <strong>KYBER</strong> لتقديم حلول ويب ورقمية عملية للشركات في قطر. المشاريع هنا توضّح شغلي الحالي ونطاقه وما أتعلمه.</p>
