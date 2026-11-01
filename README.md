@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./farouk-kyber-banner.png" alt="Farouk Khaled — Web Development, Python and Web Security — KYBER" width="100%" />
-</p>
+# Farouk Khaled
 
 <p align="center"><strong>Practical projects. Clear scope. Continuous learning.</strong></p>
 
